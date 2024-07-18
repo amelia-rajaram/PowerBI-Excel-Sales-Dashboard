@@ -42,11 +42,11 @@ This project involves the comprehensive analysis and forecasting of sales data u
 
 
 ## Repository Contents
-- `README.md`: Project overview and details.
-- `Amazon_AllYearSales.xls`: Contains raw dataset.
-- `Summary_AllYearSales.xlsx`: Contains the cleaned dataset and Excel trend analysis and forecasting.
-- `Amazon_Sales_Dashboard_PowerBI.pdf`: Power BI sales dashboard on sales KPIs.
-
+- `README.md`: Project overview and details
+- `Amazon_AllYearSales.xls`: Contains raw dataset
+- `Summary_AllYearSales.xlsx`: Contains the cleaned dataset and Excel trend analysis and forecasting
+- `Amazon_Sales_Dashboard_PowerBI.pdf`: PDF Power BI sales dashboard on sales KPIs
+- `PowerBI_Amazon_Sales_Dashboard.pbit`:: Power BI sales dashboard on sales KPIs
 
 
 
