@@ -29,11 +29,10 @@ This project involves the comprehensive analysis and forecasting of sales data u
 - **Insights**: The increasing trend suggests potential opportunities for strategic investments and resource allocation to support continued growth.
 
 ## Visualizations
-![Uploading <img width="944" alt="Screenshot 2024-07-18 at 11 19 54 AM" src="https://github.com/user-attachments/assets/06c72e90-c1d2-495a-a9bd-9ffb667bffbc">
-Screenshot 2024-07-18 at 11.21.03 AM.png…]()
 
-![Uploading Screenshot 2024-07-18 at 11.19.54 AM.png…]()
 ## Data Cleaning and Processing
+<img width="587" alt="Screenshot 2024-07-18 at 11 21 03 AM" src="https://github.com/user-attachments/assets/f91f6565-07c4-471a-8c7d-d05a8c7ff396">
+<img width="944" alt="Screenshot 2024-07-18 at 11 19 54 AM" src="https://github.com/user-attachments/assets/20eb5542-193b-4c88-9053-77b50e4deab8">
 
 ### Trend Analysis 
 <img width="1180" alt="Screenshot 2024-06-10 at 11 41 03 PM" src="https://github.com/amelia-rajaram/PowerBI-Excel-Sales-Dashboard/assets/169728203/7dbb9bde-abd4-410a-a746-27cdc4dd4e61">
