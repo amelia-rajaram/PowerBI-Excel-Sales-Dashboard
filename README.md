@@ -15,7 +15,7 @@ This project involves the comprehensive analysis and forecasting of sales data u
 
 ## Trend Analysis and Forecasting
 
-- **Tools Used**: Microsoft Excel, Power BI
+- **Tools Used**: Excel, Power BI
 - **Methods**:
   - Performed trend analysis on historical sales data.
   - Created visualizations to identify sales patterns and trends.
@@ -30,17 +30,18 @@ This project involves the comprehensive analysis and forecasting of sales data u
 
 ## Visualizations
 
-### Trend Analysis (2019)
+### Trend Analysis 
 <img width="1180" alt="Screenshot 2024-06-10 at 11 41 03 PM" src="https://github.com/amelia-rajaram/PowerBI-Excel-Sales-Dashboard/assets/169728203/7dbb9bde-abd4-410a-a746-27cdc4dd4e61">
 
-### Sales Dashboard
+### Power BI Sales Dashboard
 ![PowerBI_Sales_Dashboard](https://github.com/amelia-rajaram/PowerBI-Excel-Sales-Dashboard/assets/169728203/149642c5-3761-4672-bd7a-e3aea0ebebc7)
 
 
 ## Repository Contents
 - `README.md`: Project overview and details.
+- `Amazon_AllYearSales.xls`: Contains raw dataset.
 - `Summary_AllYearSales.xlsx`: Contains the cleaned dataset and Excel trend analysis and forecasting.
-- `Amazon_Sales_Dashboard_PowerBI.pdf`: Power BI files dashboard on sales KPIs.
+- `Amazon_Sales_Dashboard_PowerBI.pdf`: Power BI sales dashboard on sales KPIs.
 
 
 
