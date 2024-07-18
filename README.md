@@ -29,7 +29,10 @@ This project involves the comprehensive analysis and forecasting of sales data u
 - **Insights**: The increasing trend suggests potential opportunities for strategic investments and resource allocation to support continued growth.
 
 ## Visualizations
+![Uploading <img width="944" alt="Screenshot 2024-07-18 at 11 19 54 AM" src="https://github.com/user-attachments/assets/06c72e90-c1d2-495a-a9bd-9ffb667bffbc">
+Screenshot 2024-07-18 at 11.21.03 AM.png…]()
 
+![Uploading Screenshot 2024-07-18 at 11.19.54 AM.png…]()
 ## Data Cleaning and Processing
 
 ### Trend Analysis 
