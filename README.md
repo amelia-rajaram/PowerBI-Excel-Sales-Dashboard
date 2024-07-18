@@ -30,6 +30,8 @@ This project involves the comprehensive analysis and forecasting of sales data u
 
 ## Visualizations
 
+## Data Cleaning and Processing
+
 ### Trend Analysis 
 <img width="1180" alt="Screenshot 2024-06-10 at 11 41 03 PM" src="https://github.com/amelia-rajaram/PowerBI-Excel-Sales-Dashboard/assets/169728203/7dbb9bde-abd4-410a-a746-27cdc4dd4e61">
 
