@@ -30,21 +30,19 @@ This project involves the comprehensive analysis and forecasting of sales data u
 
 ## Visualizations
 
-### Monthly Sales Trends (2019)
-![Monthly Sales Trends](path/to/image1.png)
+### Trend Analysis (2019)
+<img width="1180" alt="Screenshot 2024-06-10 at 11 41 03 PM" src="https://github.com/amelia-rajaram/PowerBI-Excel-Sales-Dashboard/assets/169728203/7dbb9bde-abd4-410a-a746-27cdc4dd4e61">
 
-### Sales Forecast (2020)
-![Sales Forecast](path/to/image2.png)
+### Sales Dashboard
+![PowerBI_Sales_Dashboard](https://github.com/amelia-rajaram/PowerBI-Excel-Sales-Dashboard/assets/169728203/149642c5-3761-4672-bd7a-e3aea0ebebc7)
 
 
 ## Repository Contents
-
-- `data/`: Contains the cleaned dataset.
-- `analysis/`: Excel and Power BI files used for trend analysis and forecasting.
-- `visualizations/`: Charts and graphs illustrating sales trends and forecasts.
 - `README.md`: Project overview and details.
+- `Summary_AllYearSales.xlsx`: Contains the cleaned dataset and Excel trend analysis and forecasting.
+- `Amazon_Sales_Dashboard_PowerBI.pdf`: Power BI files dashboard on sales KPIs.
 
 
-<img width="1180" alt="Screenshot 2024-06-10 at 11 41 03 PM" src="https://github.com/amelia-rajaram/PowerBI-Excel-Sales-Dashboard/assets/169728203/7dbb9bde-abd4-410a-a746-27cdc4dd4e61">
 
-![PowerBI_Sales_Dashboard](https://github.com/amelia-rajaram/PowerBI-Excel-Sales-Dashboard/assets/169728203/149642c5-3761-4672-bd7a-e3aea0ebebc7)
+
+
