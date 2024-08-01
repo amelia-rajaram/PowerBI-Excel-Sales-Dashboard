@@ -6,7 +6,7 @@ This project involves the comprehensive analysis and forecasting of sales data u
 
 ## Data Cleaning and Processing
 
-- **Data Size**: 10,000 records
+- **Data Size**: 186,000 records
 - **Steps Taken**:
   - Checked for and removed duplicates.
   - Handled missing values appropriately.
