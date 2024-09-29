@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves the comprehensive analysis and forecasting of sales data using Excel and Power BI. The dataset consists of 10,000 records of sales transactions, which were cleaned and processed to ensure accuracy and reliability. The analysis includes identifying trends and forecasting sales for the upcoming year.
+This project involves the comprehensive analysis and forecasting of sales data using Excel and Power BI. The dataset consists of 10,000 records of sales transactions, which were cleaned and processed to ensure accuracy. The analysis includes identifying trends and forecasting sales for the upcoming year.
 
 ## Data Cleaning and Processing
 
@@ -17,16 +17,8 @@ This project involves the comprehensive analysis and forecasting of sales data u
 
 - **Tools Used**: Excel, Power BI
 - **Methods**:
-  - Performed trend analysis on historical sales data.
+  - Performed trend analysis on sales data.
   - Created visualizations to identify sales patterns and trends.
-  - Utilized predictive modeling to forecast sales for the upcoming year.
-  - Analyzed key performance indicators (KPIs) and macroeconomic trends.
-
-## Key Findings
-
-- **Historical Sales Trends**: Identified a steady increase in monthly sales throughout the analyzed year.
-- **Forecast**: Projected a positive growth trajectory in sales, reaching approximately $4.03 million by December of the upcoming year.
-- **Insights**: The increasing trend suggests potential opportunities for strategic investments and resource allocation to support continued growth.
 
 ## Visualizations
 
