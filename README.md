@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves the comprehensive analysis and forecasting of sales data using Excel and Power BI. The dataset consists of 10,000 records of sales transactions, which were cleaned and processed to ensure accuracy. The analysis includes identifying trends and forecasting sales for the upcoming year.
+This project involves the comprehensive analysis and forecasting of sales data using Excel and Power BI. The dataset consists of sales transactions cleaned and processed to ensure accuracy. The analysis includes identifying trends and forecasting sales for the upcoming year.
 
 ## Data Cleaning and Processing
 
