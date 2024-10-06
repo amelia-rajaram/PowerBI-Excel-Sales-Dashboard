@@ -29,10 +29,10 @@ This project involves the comprehensive analysis and forecasting of sales data u
 ## Sales KPIs
 <img width="1006" alt="Screenshot 2024-09-29 at 1 03 18 AM" src="https://github.com/user-attachments/assets/c517ed75-90d2-43c8-a1e8-fde9db3e488a">
 
-### Trend Analysis 
+## Trend Analysis 
 <img width="1120" alt="Screenshot 2024-09-29 at 6 05 24 PM" src="https://github.com/user-attachments/assets/4a895861-2b94-4474-b70e-f32e0adb4ef7">
 
-### Power BI Sales Dashboard
+## Power BI Sales Dashboard
 ![PowerBI_Sales_Dashboard](https://github.com/amelia-rajaram/PowerBI-Excel-Sales-Dashboard/assets/169728203/149642c5-3761-4672-bd7a-e3aea0ebebc7)
 
 
